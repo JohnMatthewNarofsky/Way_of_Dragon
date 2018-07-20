@@ -1,0 +1,458 @@
+
+		/////////////////////////||\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		||===================================================||
+  		||          WAY OF DRAGON COMPANY CHANGELOG	     ||
+		||===================================================||
+		||-----Company creators => Zorrki & DrakeDragon------||
+		||----Testers => Killah,Rubin,Puteror,Adamant14------||
+		||===================================================||
+		||----------Tested on game version 1.12.0------------||
+		||===================================================||
+		\\\\\\\\\\\\\\\\\\\\\\\\\||////////////////////////////
+
+===========================================================================
+Last beta-version always here: http://uporoom.ru/index.php/topic,179.0.html
+---------------------------------------------------------------------------
+NOTICE! If you want to install company with version higher, than you 
+already have, recomended to delete catalog Way_of_Dragon (in you game
+addons catalog).
+===========================================================================
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(*) two language - have in mind Russian and English languages
+(!) planned - planned changes, which will be in the next version
+(?) temporaly fix/remove/adding something
+================================================================
+
+
+
+	 /////////////////////////////////||\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	 ||==================================================================||
+  	 ||-------------------------Version history--------------------------||
+	 ||==================================================================||
+	 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\||///////////////////////////////////
+========================
+Release 1.012 (14.01.14)
+========================
++Added map and build 9 scenario
+
+========================
+Release 1.011 (14.12.12)
+========================
++Mini fixes for 4 scenario map
+
+========================
+Release 1.010 (13.12.12)
+========================
++Now in 4 scenario player will able to play for 2 sides
++Added map for 9 scenario (1 scenario of 2nd part)
+
+========================
+Release 1.009 (23.11.12)
+========================
++Fixed balance for 0 scenario
++Fixed HP for Old Buffer
+
+========================
+Release 1.008 (22.11.12)
+========================
++Fix problem with unworking 9 scenario (with info about end of 1st part of campaign)
+
+========================
+Release 1.007 (21.11.12)
+========================
++Change music theme in 4 scenario back on Battlefield
++Change turns for all scenarios (for anyone difficulty level)
++Fixed Fade_In and Shroud at end of 7 scenario
++Fixed explode at end of 7 scenario
++Added dificulty levels for 6 scenario
+
+========================
+Release 1.006 (20.11.12)
+========================
++Added translation for story pictures with text
++Added dificulty levels for 0 & 1 scenarios
+(?)Testing new 'healthbottle.cfg' - activate when player wants it
+
+========================
+Release 1.005 (19.11.12)
+========================
++Fix problem with translation of 6 scenario
+
+========================
+Release 1.004 (18.11.12)
+========================
++Fix for prisoners in jail (6 scenario)
++Fix bug with not work translation in 6 scenario
+
+========================
+Release 1.003 (17.11.12)
+========================
++Small fixes
+
+========================
+Release 1.002 (14.11.12)
+========================
++Minor bugfixes with content and scenarios
++Removed the extra condition for victory in 3 scenario
+(?)Removed action with planning turn for allied forces in 4 scenario
++Fix death of Jeffrey-Blade and Dalvich when he alive, but on death point was bones in 7 scenario
+(?)Removed [clear_fog] tag in 7 scenario
+(?)Added [unhide_unit] for Virgil at 8 scenario
+
+
+========================
+Release 1.001 (13.11.12)
+========================
++First stable upload
+
+=========================
+Release 0.099d (13.11.12)
+=========================
++Fixed english translation of 5 scenario
++Fixed english translation of 6 scenario
++Changed music themes for many scenarios
+(!) Rebalance of 1 scenario
+(!) Rebalance of 2 scenario
+(!) Rebalance of 4 scenario
+(!) Rebalance of 5 scenario
+
+
+=========================
+Release 0.099c (12.11.12)
+=========================
++Added new prestory images for 4 scenario
++Fixed english translation of 4 scenario
++Fixed english translation of 7 scenario
++Fixed english translation of 8 scenario
+
+========================
+Release 0.099b (9.11.12)
+========================
++Compressed all story images
++Added new prestory images for 3 scenario
++Fixed english translation of 3 scenario
+
+========================
+Release 0.099a (8.11.12)
+========================
++Added new prestory images for 1 scenario
++Fixed english translation of 1 scenario
++Fixed english translation of 2 scenario
+
+========================
+Release 0.099 (7.11.12)
+========================
++Fixed english translation of 0 scenario
++Added new prestory images for 0 scenario
+
+========================
+Release 0.098 (5.11.12)
+========================
++Added two language(*) translation for 6 scenario
+
+========================
+Release 0.097 (4.11.12)
+========================
++Added two language(*) translation for 4 scenario
++Added two language(*) translation for 5 scenario
++Added two language(*) translation for 7 scenario
++Added two language(*) translation for 8 scenario
++Added two language(*) translation for 9 scenario
+
+
+========================
+Release 0.096 (3.11.12)
+========================
++Redone some perscenario story images
++Small fixes in translation 0-2 scenarios
++Fixed two language(*) translation for 3 scenario
+
+========================
+Release 0.095 (1.11.12)
+========================
++Fixed two language(*) translation for 2 scenario
+
+========================
+Release 0.094 (30.10.12)
+========================
++Added two language(*) translation for 0 scenario
++Fixed two language(*) translation for 1 scenario
+
+========================
+Release 0.093 (21.10.12)
+========================
++Now main heroes recall at start of 1 scenario
++Virgil can recruit units when undead start attack (until the end of the 1 scenario)
++Music theme changes when undead start attack in 1 scenario
+
+========================
+Release 0.092 (13.10.12)
+========================
++Redone dialogs in 0 scenario
++Redone dialogs in 8 scenario
++Added 'The_end' scenario
++Added new music theme
+
+========================
+Release 0.091 (12.10.12)
+========================
++Changes music theme in 1 and 2 scenario
++Increased HP of Oldman in 0 scenario
++Fixed bugs in 7 & 8 scenario
++Redone dialogs in 7 & 8 scenario
+
+========================
+Release 0.090 (11.08.12)
+========================
++Added intro scenario (0 scenario)
++Small changes in story plot
++Fixed crash error when cant load campaign with unknown issue
+
+========================
+Release 0.082 (6.08.12)
+========================
++Added fog for player side in 6 & 7 scenarios
++Added 3 passages in 7 scenario for choose way to key
+
+========================
+Release 0.081 (5.08.12)
+========================
++Added shroud when Virgil pursuit for Dalvich in 5 scenario
++Fixed passage on 6 & 7 scenario, when Virgil lose his level and experience
++Fixed message error in dialog with Dalvik in 6 scenario
++Fixed appearance of Virgil at start in 6 scenario
+
+========================
+Release 0.080 (4.08.12)
+========================
++Added map and first version of 8 scenario
++Fixed variables in 7 scenario
++Changed names of 1 & 2 scenarios
+
+========================
+Release 0.070 (3.08.12)
+========================
++Now Way build work on Jeffry too in 6 scenario
++Fixed advice where to go after meeting Jeffry in 6 scenario
++Modernized map for 7 scenario
++Added 3 ways for passing in 7 scenario
+
+========================
+Release 0.063 (30.07.12)
+========================
++Rebalance of 2 & 3 scenarios (gold, enemyes, turns)
+
+========================
+Release 0.062 (29.07.12)
+========================
++Added/changed screens for story in all scenarios
++Changed/added some effects with screen in end of 5 and start of 6 scenario
+
+========================
+Release 0.061 (28.07.12)
+========================
++Added sound for moving floor and right way in 6 scenario
++Added map and first version of 7 scenario
+
+========================
+Release 0.060 (22.07.12)
+========================
++Fixed shroud update when started pursuit for Dalvich
++Changed units in trap on more easy
++Fixed gold income for sides in 5 scenario
++Created map and first version of 6 scenario
++Fixed trap in 6 scenario
++Added sound and visual effects in 6 scenario
++Fixet minor translation bugs
++Messages about recived/spent gold, health and Blood option moved in chat area
++Fixed health bottle usage (available when main hero at last breath)
++Added 4 trap units
++Added 4 units in jail
++Now for 1 side in hell - shroud for unlock terrain (fog removed)
++Fixed map and some jails positions in 6 scenario
++First version of dialogs in 6 sceanrio
+
+========================
+Release 0.051 (21.07.12)
+========================
++Added pursiut for Dalvich
++Change music theme, when Virgil start pursuit for Dalvich
++When Virgil start for pursuit, his friend change side to ai controller
++Scenario 5 now have limited turns
++Added campfire in 3 scenario
++Fixed minor translation bugs in 3 scenario
++Change terms when Virgil full healing in 3 scenario
+
+========================
+Release 0.050 (20.07.12)
+========================
++Rebalance of 1 scenario
++Come back enemy leader for 2 side in 1 scenario
++Added enemy sides in 5 scenario
++Added first dialogues in 5 scenario
++Added Fire_dragon_fix unit (smaller than Fire_Dragon original)
++Added/edited unit recruit limit in 1, 4 & 5 scenario
+
+========================
+Release 0.040 (19.07.12)
+========================
++Now sides have own villages at start in 4 scenario
++First version of dialogs in 4 scenario
++Added friendy and enemy sides in 4 scenario
++Side 4 (Dread Bat leader) now cant move
++Balance of 4 scenario (map, gold, canrecruit units for enemy)
++Remove one music track, added two new
++Change music theme at 2 scenario
++Optimization of code in 2 scenario
++Fixed dialogs translation errors in 3 scenario
++Fixed term for victory in 4 scenario
++Added map for 5 scenario
++Added structure for 5 scenario
++Music theme change when main hero under attack/in safe
+
+========================
+Release 0.033 (18.07.12)
+========================
++Fixed dialog translaton errors
++Fixed some items with wrong position in 1 & 2 scenarios
++Blood event is now in separate cfg file
++Fixed minor bugs in 1 & 2 & 3 scenarios
+
+========================
+Release 0.032 (17.07.12)
+========================
++Fixed diaogs in 1 & 2 scenario
++Done optional On/Off "Blood option" from right-click menu
++Create map and first release of 4 scenario
++Fixed when Jeffry go out in 3 scenario
++Fixed when guards go back to base positions in 3 scenario
++Jeffry and Virgil added in 1 scenario as key heroes (if one of them die - it will be defeat)
++Fixed win conditions in 1 scenario
++If one of bat-leader killed in 1 scenario - that leader not be in 2 scenario
++Fixed Dalvik transform in Lich
++Added special effects in 1 & 2 scenarios
++Updated translation file: company now at Russian and English languages
+
+========================
+Release 0.031 (16.07.12)
+========================
++Fixed dialogs in 3 scenario
++Done quest in 3 scenario
++Fixed bandits if player give money without fight at start
++Fixed guards moving back at base positions
++Fixed map for correctly work of quest
++Added advanced variables
++Added similar units or gold for quest help
++Fixed wrong position of creating help units
++Fixed open/close of map zones
++Farrier can trade now (3 items, you can buy only one)
++Now can rebuy recruit unit, if you have unluck try
++Fixed waste of money
++Fixed some variables (with farrier, recruit and dialogs results)
++Done increase of damage, if player choose that option, when buy in farrier shop sword/bow
++Done anti-capture villages in town by player side
++Fixed some message errors
++Added lables and pictures for help
+
+========================
+Release 0.030 (15.07.12)
+========================
++Created map and 3 scenario
++Fixed zones, where units can moving
++Created enemy and friendly sides
++Remove some unuseful units in company catalog
++Added variants of dialog with some units
++Modernization of plot in 3 scenario
++Added mini-quests
++Fixed moving and reaction friendly side if enemy start attack
++Added private house in city for main hero
++Added new units
++Fixed wrong position of creating units
++Fixed when friendly side attack final unit, who finished scenario
+
+========================
+Release 0.021 (14.07.12)
+========================
++Fixed 1 scenario (items, dialogs, code)
++Added new key hero Torres - friend of Dalvik
++Remove leader of undead in 1 scenario
++Fixed camera moving in 1 & 2 scenario
++Fixed enemy side, that not buy units in 2 scenario
++Added similar help units in 2 scenario (activating by lich-leader)
++Fixed position, where create help units and their side
++Fixed minor code bug (remove_item)
++Added similar villages on map of 1 & 2 scenario
++Added help for enemy side in 2 scenario (+100 gold at 7 turn)
++Converting music tracks in OGG format
+
+========================
+Release 0.020 (13.07.12)
+========================
++Created 2 scenario
++Added limit of turns in 1 & 2 scenario
++Realized some actions in 2 scenario
++Added enemy and friendly sides
++Fixed villages, that every side have at start
++Fixed decorations
++Fixed dialogs in 1 scenario
+
+========================
+Release 0.013 (28.05.12)
+========================
++Fixed one from music tracks
++Deleted unuseful track
++Change pictures for story part
++Size (in Mb) of company now lower
+
+========================
+Release 0.012 (27.05.12)
+========================
++Added new music tracks
++Fixed old tracks
+
+========================
+Release 0.011 (8.05.12)
+========================
++Map balance
++Balance of difficulty
++Change story part
++Fixed dialogs
+
+========================
+Release 0.010 (12.04.12)
+========================
++Some part of 1 scenario move in 2 scenario
++Delete unuseful code from 1 scenario
+
+========================
+Release 0.004 (26.03.12)
+========================
++Fixed map for 1 scenario
++Fixed dialogs for 1 scenario
++Balance of difficulty
+
+========================
+Release 0.003 (16.03.12)
+========================
++First dialogue version
++Added enemy sides
++Balance of difficulty
++Added items for more atmosphere
+
+========================
+Release 0.002 (2.03.12)
+========================
++Added music theme in 1 scenario
++Created first map version for 1 scenario
++Added option "Blood on position, where kill unit"
++Changed icons of company in main menu
+
+========================
+Release 0.001 (20.02.12)
+========================
++Created 1 scenario
++Created main.cfg & Intro.cfg
++Created first translate version

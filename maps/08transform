@@ -1,0 +1,13 @@
+border_size=1
+usage=map
+
+Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Urb         , Urb         , Urb         , Urb         , Urb         , Qlf         , Urb         , Qlf         , Urb         , Urb         , Urb         , Urb         , Urb         , Qlf         , Qlf         
+Qlf         , Urb^Sco     , Ql          , Ql          , Urb         , Ql          , Ql          , Urb         , Xos         , Urb         , Ql          , Ql          , Urb         , Ql          , Ql          , Urb^Sco     , Qlf         
+Qlf         , Urb^Sco     , Ql          , Qlf         , Urb         , Ql          , Xol         , Xol         , 2 Kud       , Xol         , Xol         , Ql          , Urb         , Qlf         , Ql          , Urb^Sco     , Qlf         
+Qlf         , Urb^Sco     , Ql          , Qlf         , Xol         , Xol         , Uu^Uf       , Cud         , Qxu         , Cud         , Uu^Uf       , Xol         , Xol         , Qlf         , Ql          , Urb^Sco     , Qlf         
+Qlf         , Qlf         , Qlf         , Qlf         , Urb^Sco     , Ql          , Urb^Emf     , Qxu         , 1 Cud       , Qxu         , Urb^Emf     , Ql          , Urb^Sco     , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Qlf         , Qlf         , Urb^Sco     , Qlf         , Qlf         , Qxu         , Qxu         , Qxu         , Qlf         , Qlf         , Urb^Sco     , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Urb^Sco     , Urb^Sco     , Ql          , Ql          , Ql          , Urb^Sco     , Urb^Sco     , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Urb^Sco     , Urb^Sco     , Urb^Sco     , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         

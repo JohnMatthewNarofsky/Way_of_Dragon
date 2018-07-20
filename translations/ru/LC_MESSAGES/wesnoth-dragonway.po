@@ -1,0 +1,1654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Russian &lt;ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+# Story part ===========================================================
+msgid " "
+msgstr "Zorrki и DrakeDragon представляют кампанию 'Путь дракона'"
+
+msgid "  "
+msgstr ""
+"Предостережение! Кампания содержит грубости и сцены насилия. Поэтому лицам "
+"младше 18 играть не рекомендуется."
+
+msgid "   "
+msgstr "Вступление"
+
+msgid "            "
+msgstr "Часть I: В ад и обратно"
+
+msgid "    "
+msgstr "1й сценарий - Древнее проклятие"
+
+msgid "     "
+msgstr "2й сценарий - Убираемся отсюда!"
+
+msgid "      "
+msgstr "3й сценарий - Город в опасности"
+
+msgid "       "
+msgstr "4й сценарий - Битва за Этинбург"
+
+msgid "        "
+msgstr "5й сценарий - Портал"
+
+msgid "         "
+msgstr "6й сценарий - В аду"
+
+msgid "          "
+msgstr "7й сценарий - Ловушка"
+
+msgid "           "
+msgstr "8й сценарий - Трансформация"
+
+msgid "             "
+msgstr "Часть II: Как вырастить крылья"
+
+msgid "              "
+msgstr "9й сценарий - Ночной кошмар"
+
+# Main part (main.cfg) ===========================================================
+msgid "Way of Dragon"
+msgstr "Путь Дракона"
+
+msgid "WoD"
+msgstr "ПД"
+
+msgid "(Easy)"
+msgstr "(Легкий)"
+
+msgid "Lizard"
+msgstr "Ящерица"
+
+msgid "(Normal)"
+msgstr "(Средний)"
+
+msgid "Drake"
+msgstr "Дрейк"
+
+msgid "(Hard)"
+msgstr "(Сложный)"
+
+msgid "Dragon"
+msgstr "Дракон"
+
+msgid ""
+"The story is about how to become a dragon, when depends on it fate of the "
+"world ...\n"
+"\n"
+msgstr ""
+"История о том, как стать драконом, когда от этого зависит судьба всего "
+"мира...\n"
+"\n"
+
+msgid "(8 scenarios, Difficulty is different)"
+msgstr "(8 сценариев разной сложности)"
+
+# Utils translation ===========================================================
+# Healthbottle (healthbottle_drink.cfg) ===========================================================
+msgid ""
+"The main character can die! But there is a a health bottle in pocket! Use it?"
+msgstr ""
+"Главный герой при смерти! Но в кармане есть бутылочка здоровья! Использовать "
+"её?"
+
+msgid "Yes!"
+msgstr "Да!"
+
+msgid "Player Health"
+msgstr "Здоровье персонажа"
+
+msgid "The main character will be completely healed for now. Continue?"
+msgstr "Главный герой будет полностью вылечен. Продолжить?"
+
+msgid "The main character completely healed for now!"
+msgstr "Главный герой полностью вылечен!"
+
+msgid "No."
+msgstr "Нет."
+
+msgid "Use healthbottle"
+msgstr "Использовать бутылочку здоровья"
+
+msgid "Player will be fully healed on next turn. Continue?"
+msgstr ""
+"Здоровье персонажа будет полностью восстановлено на следующем ходу. Вы "
+"уверены?"
+
+msgid "The main character will be completely healed for next turn!"
+msgstr "Главный герой будет полностью вылечен на следующем ходу!"
+
+msgid "No, let him die."
+msgstr "Нет, пусть дохнет."
+
+# Blood/remains (blood_event.cfg)
+msgid "Blood and bones of killed"
+msgstr "Кровь и кости убитых"
+
+msgid "Show blood and bones of killed units?"
+msgstr "Показывать ли кровь и кости убитых бойцов?"
+
+msgid "Yes, sure!"
+msgstr "Да, конечно!"
+
+msgid "No, I hate violence!"
+msgstr "Нет, ненавижу насилие!"
+
+msgid "Gameplay"
+msgstr "Геймплэй"
+
+msgid "Show blood and bones: ENABLED!"
+msgstr "Показ крови и костей: ВКЛЮЧЕНО!"
+
+msgid "Show blood and bones: DISABLED!"
+msgstr "Показ крови и костей: ОТКЛЮЧЕНО!"
+
+# Units ===========================================================
+# 0 scenario (Intro) ===========================================================
+msgid "(#0) Intro"
+msgstr "(#0) Вступление"
+
+msgid ""
+"A long time ago somewhere on the continent on the Great River was founded a "
+"town called Etinburg. After years this town has grown and by the start "
+"action of this campaign has already quite large and prosperous city."
+msgstr ""
+"Давным давно в глубине континента на Великой реке был заложен город под "
+"названием Этинбург. Спустя годы этот город рос и к моменту начала действия "
+"данной кампании был уже довольно большим и процветающим городом."
+
+msgid ""
+"Dalvik, Virgil, Torres and Jeffrey were friends since childhood and long "
+"time lived in the city. Until they grown up and it was time to look for each "
+"his calling in life."
+msgstr ""
+"Далвик, Виргил, Торрес и Джеффри были друзьями еще с детства и долгое время "
+"жили в городе. Пока они не подросли и не пришла пора каждому искать свое "
+"призвание в жизни."
+
+msgid "Dalvik and Torres became the city guards ..."
+msgstr "Далвик и Торрес стали городскими стражниками..."
+
+msgid "... and Virgil and Jeffrey - traveling traders."
+msgstr "...а Виргил и Джефри - странствующими торговцами."
+
+msgid "And five years later they met again together."
+msgstr "И вот спустя пять лет они снова встретились вместе."
+
+msgid "Torres"
+msgstr "Торрес"
+
+msgid "Jeffrey"
+msgstr "Джефри"
+
+msgid "Virgil"
+msgstr "Виргил"
+
+msgid "Dalvik"
+msgstr "Далвик"
+
+msgid "Old buffer"
+msgstr "Старый хрыч"
+
+msgid "Humans"
+msgstr "Люди"
+
+msgid "Bandits"
+msgstr "Бандиты"
+
+msgid "Welcome back, friends! How long as we have not met together!"
+msgstr "С возвращением, друзья! Как же давно мы не встречались вместе!"
+
+msgid "Yeah! About five years have passed!"
+msgstr "Да уж! Лет пять прошло!"
+
+msgid "I am glad to see you!"
+msgstr "Как же я рад вас видеть!"
+
+msgid "I propose for this event will go immediately to the city pub!"
+msgstr "Предлагаю ради такого события немедленно отправится в городской паб!"
+
+msgid "(far cry)"
+msgstr "(крик вдалеке)"
+
+msgid "What was that? Looks like someone is in trouble ..."
+msgstr "Что это было? Похоже, кто-то в беде..."
+
+msgid "Well, old man, show your pockets!"
+msgstr "А ну, старичок, выворачивай карманы!"
+
+msgid ""
+"How dare you, young roosters! Absolutely no conscience to attack an old man?"
+msgstr ""
+"Как вы смеете, петушье молодое! Совсем совести нет нападать на старого "
+"человека?!"
+
+msgid "Shut up and give all that is valuable!"
+msgstr "Ты нам зубы не заговаривай, а по-хорошему отдавай все что есть ценное!"
+
+msgid "Hey, you! Leave the old man alone! Or it is not get away with you!"
+msgstr "Эй, вы! Оставьте старика в покое! Иначе это не сойдет вам с рук!"
+
+msgid ""
+"(sarcastically) Oh, no, defender of the elders hurry to the rescue! I'm sooo "
+"scared!"
+msgstr ""
+"(саркастически) О нет, защитник старцев спешит на помощь! Мне тааак страшно!"
+
+msgid ""
+"Look, it is the city guards! Let's save the old man, if you can! Ha-ha-ha!"
+msgstr ""
+"Гляди, это городские стражники! Давайте, спасите старикашку, если успеете! "
+"Ха-ха-ха!"
+
+msgid ""
+"Display blood and bones of killed units? (you can switched it by the right "
+"mouse button menu)"
+msgstr ""
+"Показывать кровь и кости убитых бойцов? (можно переключать в меню при "
+"нажатии правой кнопки мыши)"
+
+msgid "Save Old buffer"
+msgstr "Спасти старого хрыча"
+
+msgid "Death of Dalvik"
+msgstr "Смерть Далвика"
+
+msgid "Death of Torres"
+msgstr "Смерть Торреса"
+
+msgid "Death of Virgil"
+msgstr "Смерть Виргила"
+
+msgid "Death of Jeffrey"
+msgstr "Смерть Джефри"
+
+msgid "Death of Old buffer"
+msgstr "Смерть старого хрыча"
+
+msgid "Turns run out"
+msgstr "Закончились ходы"
+
+msgid "Turns run out!"
+msgstr "Закончились ходы!"
+
+msgid "The key hero was killed!"
+msgstr "Ключевой герой погиб!"
+
+msgid "Aaaahhhh..."
+msgstr "Аааааахххх..."
+
+msgid "The main hero was killed!"
+msgstr "Главный герой погиб!"
+
+msgid "Ooouuummm..."
+msgstr "Оооуууммм..."
+
+msgid "Uuuummmfff..."
+msgstr "Уууууммммффф..."
+
+msgid "Eeeeehhhh..."
+msgstr "Эээээххх..."
+
+msgid "Aaaa..."
+msgstr "Аааа..."
+
+msgid "Quest failed!"
+msgstr "Задание провалено!"
+
+msgid "Are you all right?"
+msgstr "С вами все в порядке?"
+
+msgid ""
+"Hell, no! Young people absolutely woozy! Even the one that is trying to help "
+"make it through the ass!"
+msgstr ""
+"Нет, черт побери! Молодежь совсем ошалела! Даже та, что пытается помочь "
+"делает это через задницу!"
+
+msgid ""
+"(suddenly changing mood) I'm sorry, maybe I'm too rough. Understand - senile "
+"insanity. I would want to thank you for trying ... for help. And I can tell "
+"you how to get rich quickly!"
+msgstr ""
+"(неожиданно меняя настроение) Простите, может я слишком груб. Сами понимаете "
+"- старческий маразм. Я бы хотел поблагодарить вас за попытку... за помощь. И "
+"могу поведать вам о том, как быстро разбогатеть!"
+
+msgid "Yes, of course!"
+msgstr "Да, конечно!"
+
+msgid "But only if it's legal!"
+msgstr "Но только если это законно!"
+
+msgid ""
+"(grins) You just need to find the treasure! It's simple! That this illegal?"
+msgstr ""
+"(ухмыляется) Вам нужно просто найти сокровища! Все просто! Что в этом "
+"незаконного?"
+
+msgid ""
+"Old buffer told about ancient great riches hidden surprisingly very close - "
+"in a cave sleeping volcano near the city."
+msgstr ""
+"Старый хрыч поведал о древних несметных богатствах, спрятанных на удивление "
+"довольно близко - в пещере спящего вулкана неподалеку от города."
+
+# 1 scenario ===========================================================
+msgid "(#1) Ancient damnation"
+msgstr "(#1) Древнее проклятие"
+
+msgid ""
+"So, our heroes went for treasures. Here they entered into cave, about which "
+"strange old man told to them. Case remained for small - check had he not "
+"lied about treasures hidden in the cave."
+msgstr ""
+"Итак, наши герои отправились за сокровищами. Вот они вошли в ту самую "
+"пещеру, о которой им рассказал странный старикашка. Дело оставалось за малым "
+"- проверить не соврал ли он про спрятаные в пещере сокровища."
+
+msgid ""
+"Cave itself was unusual. Immediately after the entrance began constructed "
+"centuries ago by unknown bridges that lead the way deep into the cave."
+msgstr ""
+"Сама пещера была необычной. Сразу после входа начинались сооруженные "
+"неизвестно кем века назад мосты, уводящие путь вглубь пещеры."
+
+msgid "Treasure seekers"
+msgstr "Искатели сокровищ"
+
+msgid "Undead"
+msgstr "Нежить"
+
+msgid "Let's go, friends! We'll find that treasures!"
+msgstr "Вперед, друзья! Мы найдем эти сокровища!"
+
+msgid "Quiet! Do you hear that? Sounds like ... bats..."
+msgstr "Тихо! Вы слышали? Эти звуки... похоже... на летучих мышей..."
+
+msgid "I don't like this place! And I hate bats!"
+msgstr "Не нравится мне это место! И я терпеть не могу летучих мышей!"
+
+msgid ""
+"Have you ever seen them? No? Then stop whining! You're a man, not cowardly "
+"chicken!"
+msgstr ""
+"Ты их видел хоть раз? Нет? Тогда перестань ныть! Ты мужик, а не трусливая "
+"баба!"
+
+msgid "Well, let's go further."
+msgstr "Ладно, пошли дальше."
+
+msgid "Find treasures"
+msgstr "Найти сокровища"
+
+msgid "Living skeletons? What's going on? Is there really treasures ahead?"
+msgstr ""
+"Живые скелеты? Что тут происходит? Неужели там впереди действительно нас "
+"ждут сокровища?"
+
+msgid "I can not believe. All this is not for good!"
+msgstr "Что-то мне не верится. Это все не к добру!"
+
+msgid ""
+"It's just a test on road to riches! In this life nothing happens simply so!"
+msgstr ""
+"Это просто испытание на пути к богатству! В этой жизни ничего не бывает "
+"просто так!"
+
+msgid "Maybe you're right, Dalvik. Just in case, I'll cover the rear."
+msgstr "Возможно ты прав, Далвик. На всякий случай я прикрою тыл."
+
+msgid "Virgil now can recruit units (until the end of this scenario)."
+msgstr "Виргил теперь тоже может вербовать бойцов (до конца этого сценария)."
+
+msgid "Oooouuuu..."
+msgstr "Оооооуууууу..."
+
+msgid "Eeeeeyyyy..."
+msgstr "Ээээуууу..."
+
+msgid "Unexpected volcano began erupting and lava filled cavern."
+msgstr "Вулкан неожиданно проснулся, и лава заполнила пещеру."
+
+msgid ""
+"I knew that there treasures! I'm rich! We're rich! (takes a handful of gold "
+"coins)"
+msgstr ""
+"Я знал, что тут сокровища! Я богат! Мы богаты! (берет горсть золотых монет)"
+
+msgid ""
+"What ... with me? I did not ... not good ... What ... what's going on? ..."
+msgstr "Что... со мной? Мне не... нехорошо... Что... что происходит?..."
+
+msgid "It seems on treasures imposed some ancient damnation ..."
+msgstr "Похоже, на сокровища наложено какое-то древнее проклятие..."
+
+msgid "... and Dalvik become undead-lich!"
+msgstr "...и Далвик стал нежитью-личем!"
+
+# 2 scenario ===========================================================
+msgid "(#2) Get out of here!"
+msgstr "(#2) Убираемся отсюда!"
+
+msgid "Dalvich"
+msgstr "Далвич"
+
+msgid "Dalvik become undead-lich ... And now it was not the Dalvik ..."
+msgstr "Далвик стал нежитью-личем... И теперь это уже был не Далвик..."
+
+msgid "Dalvik, what happened with you?"
+msgstr "Далвик, что с тобой произошло?"
+
+msgid "(look on friends ... if he sees empty eyes of course)"
+msgstr ""
+"(смотрит на друзей... если, конечно, пустыми глазницами он может видеть)"
+
+msgid "You ... undead? How? Why?"
+msgstr "Ты... нежить? Как? Почему?"
+
+msgid "Silence! Now you know what is a painful death!"
+msgstr "Молчать! Познай, что есть мучительная смерть!"
+
+msgid "Dalvik! It is we - your friends! Are you forget?"
+msgstr "Далвик! Это мы - твои друзья! Ты что забыл?"
+
+msgid "(froze from fear)"
+msgstr "(замер от страха)"
+
+msgid "Torres, we need to go! It explicitly is not Dalvik!"
+msgstr "Торрес, нам нужно уходить! Это уже точно не Далвик!"
+
+msgid ""
+"(evil laugh) Nobody will leave out of here alive! Give up, and maybe I kill "
+"you faster than promised!"
+msgstr ""
+"(зло смеется) Никто не уйдет отсюда живым! Сдавайтесь, и может я убью вас "
+"быстрее чем обещал!"
+
+msgid "No way freak! Fuck you!"
+msgstr "Ни за что, урод! Пошел ты!"
+
+msgid "Your dead bodies be my eternal slaves!"
+msgstr "Ваши трупы станут моими вечными рабами!"
+
+msgid "Shit! Get out of here! We will not cope with him!"
+msgstr "Черт! Убираемся отсюда! Мы с ним не справимся!"
+
+msgid "Fools! Do you think that you could run away from me?"
+msgstr "Глупцы! Думаете что сможете убежать от меня?"
+
+msgid "You cannot pass!"
+msgstr "Команда была стоять!"
+
+msgid "Damn!"
+msgstr "Проклятие!"
+
+msgid "Bridge destroyed!"
+msgstr "Мост обрушен!"
+
+msgid "The last time I offer give up to you! Otherwise, all the same - death!"
+msgstr "Последний раз предлагаю сдаться тебе! Иначе все одно - смерть!"
+
+msgid ""
+"Get out of here! Tell head of the city guards about this cavern and what's "
+"happened!"
+msgstr ""
+"Уходите отсюда! И сообщите главе стражи города об этой пещере и что тут "
+"произошло!"
+
+msgid "No! We not leave you!"
+msgstr "Нет! Мы тебя не бросим!"
+
+msgid "There's no time! In the city must rather hear about it!"
+msgstr "Времени нет! В городе должны скорее узнать об этом!"
+
+msgid "We'll be back soon! Hold on, friend!"
+msgstr "Мы скоро вернемся! Держись, друг!"
+
+msgid ""
+"Dalvich can recall some warriors, if you move him on the field with bones."
+msgstr ""
+"Далвич может призвать некоторых воинов, если провести его на поле с костями."
+
+msgid "Destroy all survivors"
+msgstr "Уничтожить всех живых"
+
+msgid "Death of Dalvich"
+msgstr "Смерть Далвича"
+
+msgid "Rise up, fallen warrior!"
+msgstr "Восстань, павший воин!"
+
+msgid "While I live, I will fight with you!"
+msgstr "Пока я живой, то буду драться с тобой!"
+
+msgid "Stupid fool! I will destroy you!"
+msgstr "Глупец! Я все равно уничтожу тебя!"
+
+msgid "It ... is impossible ..."
+msgstr "Это... невозможно..."
+
+msgid "The key villain was killed ahead of time!"
+msgstr "Ключевой злодей погиб раньше времени!"
+
+msgid "Ha! I think you can do more, bag with bones!"
+msgstr "Ха! Я думал ты способен на большее, мешок костей!"
+
+msgid "Da...fuck...you..."
+msgstr "Да...пошел...ты..."
+
+msgid "Now, your body will be forever serve to me!"
+msgstr "Теперь твое тело будет вечно служить мне!"
+
+# 3 scenario ===========================================================
+msgid "(#3) City in danger"
+msgstr "(#3) Город в опасности"
+
+msgid ""
+"While Torres fought in the cave with Dalvich, Virgil and Jeffrey haste to "
+"the city for help ..."
+msgstr ""
+"Пока Торрес сражался в пещере с Далвичем, Виргил и Джефри спешили в город за "
+"помощью..."
+
+msgid "Money"
+msgstr "Деньги"
+
+msgid "short sword"
+msgstr "короткий меч"
+
+msgid "bow"
+msgstr "лук"
+
+msgid "Guards"
+msgstr "Стража"
+
+msgid "Good that city is not far from cavern."
+msgstr "Хорошо что город не так далеко от пещеры."
+
+msgid "We must hurry to get back and save Torres!"
+msgstr "Нужно спешить, чтобы успеть вернутся и спасти Торреса!"
+
+msgid "Report about danger in cavern to head of the city guards"
+msgstr "Сообщить об опасности в пещере главе городской стражи"
+
+msgid "City Etinburg"
+msgstr "Город Этинбург"
+
+msgid "Head of the city guards"
+msgstr "Глава стражи города"
+
+msgid "Kryun helper"
+msgstr "Помощник Крюна"
+
+msgid "Whoa! Stop!"
+msgstr "Опа! Стоять нафиг!"
+
+msgid "It's an ambush!"
+msgstr "Засада!"
+
+msgid "Real?"
+msgstr "Настоящая?"
+
+msgid "Unfortunately, yes!"
+msgstr "К сожалению, да!"
+
+msgid "Shut up!"
+msgstr "Заткнитесь!"
+
+msgid "Choose - money or your life?"
+msgstr "Выбирайте - кошелек или жизнь?!"
+
+msgid "Take a money! I am a coward!"
+msgstr "Забирайте кошелек! Я жалкий трус!"
+
+msgid "Without fighting you will get nothing! Pray for mercy!"
+msgstr "Без боя вы ничего не получите! Молитесь о пощаде!"
+
+msgid "Spent 50 gold."
+msgstr "Потрачено 50 золота."
+
+msgid "Here so that! Let's go away, guys!"
+msgstr "Вот так-то! Валим, парни!"
+
+msgid "See you later, fools!"
+msgstr "Еще увидимся, олухи!"
+
+msgid "I hate cowards!"
+msgstr "Как же я ненавижу трусов!"
+
+msgid "It's time to have some fun!"
+msgstr "Сейчас повеселимся!"
+
+msgid "Guards! Here an armed attack!"
+msgstr "Стража! Тут вооруженное нападение!"
+
+msgid "Guaaaaards..."
+msgstr "Стражааааа..."
+
+msgid ""
+"Sorry friend, but I think Torres will not survive long! Go on without me, "
+"and I will back in cavern and try to save him!"
+msgstr ""
+"Извини друг, но мне кажется Торрес долго не протянет! Иди дальше без меня, а "
+"я вернусь в пещеру и постараюсь спасти его!"
+
+msgid "Wait, wait!"
+msgstr "Стой, подожди!"
+
+msgid "Gan"
+msgstr "Ган"
+
+msgid "Don"
+msgstr "Дон"
+
+msgid "Hold on, outsider!"
+msgstr "Стой, чужак!"
+
+msgid "Outsider? But I have my own house in city!"
+msgstr "Чужак?! Но у меня есть свой дом в городе!"
+
+msgid "Okay, now what? ..."
+msgstr "Окей, и что теперь?..."
+
+msgid "Maybe we will solve all quickly? (give 30 gold)"
+msgstr "Может мы решим все по-быстрому? (дать 30 монет)"
+
+msgid "Out of my way, or or regret about this!"
+msgstr "Прочь с дороги, а то пожалеешь!"
+
+msgid "Who are you?!"
+msgstr "Тогда назови себя!"
+
+msgid "My name is too famous to call it."
+msgstr "Мое имя слишком известное, чтобы называть его."
+
+msgid "I'm Virgil. House - the second left near waterfront."
+msgstr "Я Виргил - житель этого города. Дом - второй слева на набережной."
+
+msgid "Then get out away, while you safe!"
+msgstr "Тогда проваливай, пока цел!"
+
+msgid "Joke, joke! Now I'm will answer seriously."
+msgstr "Шутка, шутка! Теперь я буду отвечать совершенно серьезно."
+
+msgid "Prepare to fight!"
+msgstr "Готовься к драке!"
+
+msgid "You're daring! Now I'll teach you!"
+msgstr "Да ты дерзкий! Сейчас я тебя проучу!"
+
+msgid "Correctly thinking! Now call yourself!"
+msgstr "Правильно мыслишь! Теперь назови себя!"
+
+msgid "Spent 30 gold."
+msgstr "Потрачено 30 золота."
+
+msgid "Looks like everything is all right. Welcome back to city, citizen!"
+msgstr "Похоже, все в порядке. С возвращением в город, гражданин!"
+
+msgid "Thank you!"
+msgstr "Большое спасибо!"
+
+msgid "Home, sweet home!"
+msgstr "Дом, милый дом!"
+
+msgid "Received 25 gold."
+msgstr "Получено 25 золота."
+
+msgid "Truman"
+msgstr "Труман"
+
+msgid "Freeman"
+msgstr "Фримен"
+
+msgid "Kryun"
+msgstr "Крюн"
+
+msgid "Stop! Entrance only for the guards!"
+msgstr "Стоп! Вход только для стражи!"
+
+msgid "But why?"
+msgstr "Но почему?"
+
+msgid "Maybe let me in? (give 45 gold)"
+msgstr "Может все таки пустишь меня? (дать 45 монет)"
+
+msgid "Get away out of the way!"
+msgstr "Пошел прочь с дороги!"
+
+msgid ""
+"Sorry, citizen. But I repeat - entrance only for guards, because there's too "
+"high level of crime in the city."
+msgstr ""
+"Простите, горожанин. Но я повторяю, что проход запрещен в связи с высоким "
+"уровнем преступности в городе."
+
+msgid "What can I do to let me in?"
+msgstr "Что я могу сделать, чтобы мне можно было пройти?"
+
+msgid ""
+"But I really need to transmit an important message personally to head of the "
+"city guards!"
+msgstr ""
+"Но мне срочно нужно передать важное сообщение лично главе стражи города!"
+
+msgid "Crime? Really? No, I never heard about it."
+msgstr "Преступность? Неужели? Не, не слышал."
+
+msgid ""
+"Did you know that by law, I have the right to put you in jail for a bribe?"
+msgstr ""
+"А ты знаешь, что по закону я имею право посадить тебя в тюрьму за взятку?"
+
+msgid "Come on! Try it! I'm sooo scared!"
+msgstr "Ну давай, попробуй! Тоже мне напугал!"
+
+msgid ""
+"Maybe there is something that I can do for you, and we forget about that "
+"misunderstanding?"
+msgstr ""
+"Может, есть что-то, что я смогу сделать для тебя, и мы забудем об этом "
+"недоразумении?"
+
+msgid "Just touch me! Or you will regret about it!"
+msgstr "Только тронь меня! Иначе пожалеешь!"
+
+msgid "Are you joker? Get out!"
+msgstr "Шутки шутить вздумал? Тогда пошел прочь!"
+
+msgid "You have a problems with sense of humor? Stupid tin can!"
+msgstr "У тебя проблемы с чувством юмора? Тупая консервная банка!"
+
+msgid ""
+"You're pushy! All right. If you find and kill bandits, who attacked peoples "
+"near the city, you'll be able to enter."
+msgstr ""
+"Какой ты настойчивый! Ладно. Если ты найдешь и убьешь бандитов, которые "
+"нападают на людей недалеко от города, то я пропущу тебя."
+
+msgid "I kill that bandits. But I need some help ..."
+msgstr "Я разберусь с бандитами. Но мне может понадобиться небольшая помощь..."
+
+msgid "No way man! I haven't time for this!"
+msgstr "Ни за что, мужик! У меня нет на это времени!"
+
+msgid "You have a long tongue! Now, I will correct it!"
+msgstr "У тебя длинный язык! Сейчас я это исправлю!"
+
+msgid "You must think about it offense for a long time!"
+msgstr "Тебе предстоит долго обдумывать свой проступок!"
+
+msgid ""
+"You did not had to inform about danger, and soon the city was attacked by "
+"undead. The siege lasted not long, and soon in the city there is not a "
+"living soul ..."
+msgstr ""
+"Вы не успели вовремя сообщить об опасности, и вскоре город был атакован "
+"нежитью. Осада продолжалась недолго, и вскоре в городе не осталось ни одной "
+"живой души..."
+
+msgid "Well, you can go. But I am will not let you to enter!"
+msgstr "Хорошо, можешь идти. Но я тебя все равно не пропущу!"
+
+msgid ""
+"Well ... You can take a two my soldiers. Or I'll give you some money - "
+"enough to hire a mercenary in the city and buy some equipment from smith."
+msgstr ""
+"Ну... Ты можешь взять пару моих солдат. Или я дам тебе немного денег - "
+"хватит чтобы нанять наемника в городе и купить у кузнеца снаряжение получше."
+
+msgid "Give me your soldiers."
+msgstr "Дай мне своих солдат."
+
+msgid "Give me some money."
+msgstr "Хорошо, давай мне золото!"
+
+msgid "That it's the best fighters that I can give to you for now."
+msgstr "Вот, это лучшие бойцы, что я могу тебе дать сейчас."
+
+msgid "We will not fail, sir!"
+msgstr "Мы не подведем Вас, сэр!"
+
+msgid "What are your orders?"
+msgstr "Какие будут приказания?"
+
+msgid "You may think that the problem with bandits has been solved!"
+msgstr "Можете считать, что проблема с бандитами уже решена!"
+
+msgid "Destroy bandits in the forest outside the city"
+msgstr "Уничтожить бандитов в лесу за городом"
+
+msgid ""
+"Here 50 gold. Mercenary will cost you 40. Any equipment, probably in 10-20 "
+"gold."
+msgstr ""
+"Тут 50 золотых. Наемник обойдется тебе в 40. А снаряжение где-то в 10-20 "
+"золотых."
+
+msgid "Received 50 gold."
+msgstr "Получено 50 золота."
+
+msgid "Mercenary"
+msgstr "Наемник"
+
+msgid "Smith (works only during the day!)"
+msgstr "Кузнец (работает днем!)"
+
+msgid "Hire a Mercenary and buy any equipment from smith"
+msgstr "Нанять наемника и купить у кузница любое снаряжение"
+
+msgid "Hello, smith. I need to buy some useful things in your shop."
+msgstr ""
+"Добрый день, кузнец. Мне нужно прикупить себе пару полезных вещиц в твоей "
+"лавке."
+
+msgid "I knew you'd come. So, what do you want to buy?"
+msgstr "Мне передали, что ты придешь. Итак, что ты хочешь купить?"
+
+msgid "Sword (temporary +3 damage with sword) - 10 gold"
+msgstr "Меч (временно +3 к урону мечом) - 10 золотых"
+
+msgid "Armor (temporary increase to health +20) - 15 gold"
+msgstr "Броня (временная прибавка к здоровью +20) - 15 золотых"
+
+msgid "Bow (temporary +3 damage with bow) - 20 gold"
+msgstr "Лук (временно +3 к урону луком) - 20 золотых"
+
+msgid "I do not need anything."
+msgstr "Думаю, мне ничего не нужно."
+
+msgid "Well, here's the money."
+msgstr "Хорошо, вот деньги."
+
+msgid "Spent 10 gold."
+msgstr "Потрачено 10 золота."
+
+msgid "Spent 15 gold."
+msgstr "Потрачено 15 золота."
+
+msgid "Spent 20 gold."
+msgstr "Потрачено 20 золота."
+
+msgid "With you pleased to deal."
+msgstr "С тобой приятно иметь дело."
+
+msgid "As you know. If you want to come back - during the day I'm always here."
+msgstr "Как знаешь. Надумаешь - возвращайся. Днем я всегда тут."
+
+msgid ""
+"You've already bought one of the things! To select a different - load "
+"savegame before the last purchase!"
+msgstr ""
+"Ты уже купил у меня одну из вещей! Чтобы выбрать другую - загрузи сохранение "
+"перед прошлой покупкой!"
+
+msgid "I do not know you. So forget it!"
+msgstr "Я тебя не знаю. Поэтому забудь об этом!"
+
+msgid "What you need?"
+msgstr "Что тебе нужно?"
+
+msgid "I need to hire a mercenary. Need help with difficult task."
+msgstr "Я хотел бы нанять наемника. Нужна помощь в одном непростом деле."
+
+msgid "I hope, need to kill someone? I like a fight!"
+msgstr "Надеюсь убивать придется? Я люблю немного подраться!"
+
+msgid "I think so. How much is your services?"
+msgstr "Скорее всего. Сколько стоят твои услуги?"
+
+msgid "Suggest your price. And maybe we negotiate."
+msgstr "Предложи свою цену. И, возможно мы договоримся."
+
+msgid "20 gold"
+msgstr "20 золотых"
+
+msgid "30 gold"
+msgstr "30 золотых"
+
+msgid "40 gold"
+msgstr "40 золотых"
+
+msgid "50 gold"
+msgstr "50 золотых"
+
+msgid ""
+"It is not serious! If so little payment - maybe you could do it by self."
+msgstr "Это несерьезно! Раз плата маленькая - наверное ты справишься сам."
+
+msgid "Certainly, price is low ... though right."
+msgstr "Цена конечно невысокая... Хотя ладно."
+
+msgid "Anyway ... day after day I do nothing."
+msgstr "...Все равно уже который день ничего не делаю."
+
+msgid "It's a deal!"
+msgstr "По рукам!"
+
+msgid "Spent 40 gold."
+msgstr "Потрачено 40 золота."
+
+msgid "Well, I'm at your disposal. In four words - Where will we go?"
+msgstr "Хорошо, я в твоем распоряжении. В двух словах - куда пойдем?"
+
+msgid "Deal!"
+msgstr "Заметано!"
+
+msgid "Excellent! I'm ready to go with you!"
+msgstr "Отлично! Я готов пойти с тобой!"
+
+msgid "It seems you already have some companions."
+msgstr "Кажется, у тебя и так полно спутников."
+
+msgid "So we waste time?"
+msgstr "Так и будем топтаться на одном месте?!"
+
+msgid "It's time to explore the forest and find bandits!"
+msgstr "Пора обследовать лес и найти бандитов!"
+
+msgid "Kill leader of bandits"
+msgstr "Убить главаря бандитов"
+
+msgid "Kill all bandits"
+msgstr "Убить всех бандитов"
+
+msgid "Here is clean, no one soul!"
+msgstr "Тут чисто, ни души!"
+
+msgid "Oops, wolves here!"
+msgstr "Упс, тут волки!"
+
+msgid "There is clean!"
+msgstr "Тут пусто!"
+
+msgid "Wow, wolf! Watch out!"
+msgstr "Ух, волчара! Осторожно!"
+
+msgid "Bandits are here! Attack them!"
+msgstr "Бандиты здесь! В атаку!"
+
+msgid "We have guests! To arms!"
+msgstr "У нас гости! К оружию!"
+
+msgid "Kill him! This is the man who killed our friends near the bridge!"
+msgstr "Убейте его! Это тот самый человек, который убил наших друзей у моста!"
+
+msgid "Look! This is the coward, who was recently robbed near the bridge!"
+msgstr "Смотрите! Это тот самый трус, которого недавно ограбили у моста!"
+
+msgid "Bandit leader was killed!"
+msgstr "Главарь бандитов убит!"
+
+msgid "Report that the leader of bandits is dead"
+msgstr "Доложить, что главарь бандитов убит"
+
+msgid ""
+"Do you want that you have not considered the city thief? Then do not enter "
+"in others houses!"
+msgstr ""
+"Не хочешь, чтобы тебя считали городским воришкой? Тогда не влезай в чужие "
+"дома!"
+
+msgid "I found camp of bandits found. Now bandit leader is dead."
+msgstr "Лагерь бандитов найден и главарь бандитов теперь мертв."
+
+msgid "Really? And where was a camp?"
+msgstr "Действительно? А где располагался лагерь?"
+
+msgid ""
+"Right near the Great river. It looks like they are there for a long time, "
+"because there is even a small port! Maybe, they will back."
+msgstr ""
+"Прямо около Великой реки. Похоже они там довольно давно, там есть даже "
+"пристань! Возможно, бандиты еще вернутся."
+
+msgid ""
+"You have gave to the city invaluable service, citizen! head of the city "
+"guards want to personally see you! Also thanks from me - a small cash prize!"
+msgstr ""
+"Ты многое сделал для города, гражданин! Тебя желает лично видеть начальник "
+"стражи города! Также в благодарность от меня - небольшая денежная награда!"
+
+msgid "Received 100 gold."
+msgstr "Получено 100 золота."
+
+msgid "Mission accomplished, sir!"
+msgstr "Задание выполнено, сэр!"
+
+msgid "Good luck to you, sir!"
+msgstr "Удачи Вам, сэр!"
+
+msgid "That's all! It was nice to work for you!"
+msgstr "Похоже, я больше не нужен. Приятно было поработать на тебя!"
+
+msgid "I enjoyed working with you! I would like to travel with you further!"
+msgstr ""
+"Мне понравилось работать на тебя. Я бы хотел путешевствовать с тобой и "
+"дальше!"
+
+msgid ""
+"I think that you underpaid me for this job. I think we'll meet again later!"
+msgstr ""
+"Мне кажется все-таки, что ты недоплатил мне за эту работу. Я думаю мы еще "
+"встретимся!"
+
+msgid "I greet you, Virgil. You had an invaluable service to the city!"
+msgstr "Приветствую тебя, Виргил. Ты оказал городу неоценимую услугу!"
+
+msgid ""
+"Yet bandits - only a small part of the trouble. The city is in much greater "
+"danger!"
+msgstr ""
+"Но все же бандиты - лишь малая часть бед. Город находится в куда большей "
+"опасности!..."
+
+msgid ""
+"Virgil told to head of the city guards about what danger hangs over the "
+"city..."
+msgstr ""
+"Виргил рассказал главе стражи о том, какая опасность нависла над городом... "
+
+# 4 scenario ===========================================================
+msgid "(#4) Battle for Etinburg"
+msgstr "(#4) Битва за Этинбург"
+
+msgid ""
+"After knew that goes on in the cave, the captain gave the order to gather a "
+"group to go into the cave for eliminate the threat for city."
+msgstr ""
+"Узнав, что творится в пещере, начальник стражи отдал приказ собрать отряд и "
+"отправиться в пещеру, чтобы устранить угрозу для города."
+
+msgid ""
+"But Dalvich also not been idle ... hands. He began to collect an army of "
+"undead to the world's evil and chaos reigned. Corpses in the cave was not "
+"enough, so he began to prepare a special ancient ritual. Also, killing "
+"Torres, he subdued his body - now that he was a faithful soldier Damned "
+"archer."
+msgstr ""
+"Но лич, который когда-то был Далвиком, тоже не сидел сложа... кисти рук. Он "
+"стал собирать себе армию нежити, для того, чтобы в мире воцарилось зло и "
+"хаос. Трупов в пещере ему было мало, поэтому он стал готовить особый древний "
+"ритуал. Также, убив Торреса, он подчинил себе его тело - теперь это был "
+"верный ему воин Проклятый лучник."
+
+msgid "Damned Torres"
+msgstr "Проклятый Торрес"
+
+msgid "There ahead squad of bony!"
+msgstr "Там впереди отряд костлявых!"
+
+msgid "Damn! It seems we were too late and Torres with Jeffrey are dead!"
+msgstr "Проклятье! Кажется мы опоздали, и Торрес с Джеффри уже мертвы!"
+
+msgid ""
+"We can't to retreat - behind Etinburg! We must win this battle! After "
+"victory we will go into the cavern to completely eliminate this danger!"
+msgstr ""
+"Отступать некуда - позади Этинбург! Мы должны выиграть этот бой! А после "
+"победы мы сразу отправимся в пещеры, чтобы полностью устранить эту угрозу!"
+
+msgid ""
+"Well, well, well. What we have here? A small group of mortals! If you think "
+"resist, then nothing good for you! All the same, your corpses will soon be "
+"among us!"
+msgstr ""
+"Так-так-так. Что у нас тут? Небольшая кучка смертных! Если вы думаете "
+"сопротивляться, то напрасно! Все равно ваши трупы скоро будут среди нас!"
+
+msgid "Let's go, soldiers! Protect our city and not give it to enemy!"
+msgstr "Пошли, пошли, пошли! Защитим наш город! Не отдадим его врагу!"
+
+msgid "In the battle!"
+msgstr "В бой!"
+
+msgid ""
+"When your allies are recruiting new forces, then the next turn you'll be "
+"able to manage them."
+msgstr ""
+"Когда ваши союзники завербуют новые войска, то со следующего хода вы сможете "
+"ими управлять."
+
+msgid "Defeat the undead"
+msgstr "Победить нежить"
+
+msgid "Death of Freeman"
+msgstr "Смерть Фримена"
+
+msgid "You can not stop us ... fools!"
+msgstr "Глупцы... Вам не остановить... нас!"
+
+msgid "Victory!"
+msgstr "Победа!"
+
+msgid "In the cave! Hurry!"
+msgstr "А теперь скорее в пещеру!"
+
+msgid "Bring Virgil to the cavern"
+msgstr "Провести Виргила до пещеры"
+
+msgid "I found somebody!"
+msgstr "Тут кто-то прячется!"
+
+msgid "Magician? Magic out of the law! Immediately, execute him!"
+msgstr "Маг?! Магия вне закона! Немедленно казнить его!"
+
+msgid "Please! Let us to help you in fight with that undead!"
+msgstr "Пожалуйста! Позвольте помочь вам в бою с нежитью!"
+
+msgid ""
+"Mages can be very useful against undead! And with due skill, they can healed "
+"allied units! Can you change your mind, Freeman?"
+msgstr ""
+"Против нежити маги могут быть очень полезны! А при должном умении они даже "
+"могут лечить войска! Может передумаете, Фримен?"
+
+msgid "Well, I let him come with us under your responsibility, Virgil!"
+msgstr "Хорошо, я разрешаю ему пойти с нами под твою ответственность, Виргил!"
+
+msgid "Do not worry. I will not let you!"
+msgstr "Не беспокойтесь. Я не подведу вас!"
+
+msgid "Now you can recruit mages."
+msgstr "Теперь можно вербовать магов!"
+
+msgid ""
+"Virgil, wait! We still need to repel attack here! Or undead may block us "
+"from both sides in a cavern! Or even attack the city!"
+msgstr ""
+"Виргил, стой! Нам еще нужно отбить атаку здесь! Иначе нежить зажмет нас с "
+"двух сторон в пещере! Или даже нападет на город!"
+
+msgid ""
+"It seems, you're too late! Portal to hell opened and now I will have "
+"constantly support from there! Ha-ha-ha!"
+msgstr ""
+"Похоже, вы опоздали! Портал в ад открыт и теперь у нас будет постоянное "
+"подкрепление! Ха-ха-ха!"
+
+msgid "You do not have time to stop Dalvich, and he opened portal to hell!"
+msgstr "Вы не успели помешать Далвичу, и он открыл врата в ад!"
+
+# 5 scenario ===========================================================
+msgid "(#5) Portal"
+msgstr "(#5) Портал"
+
+msgid ""
+"Virgil and Freeman entered the cavern - where it all began, and should have "
+"ended!"
+msgstr ""
+"Виргил и Фримен вошли в пещеру - в ту самую, где все началось и должно было "
+"закончиться!"
+
+msgid "Dalvich servant"
+msgstr "Слуга Далвича"
+
+msgid ""
+"Mages are really good against the undead! Sake of this just cause they have "
+"a right to exist!"
+msgstr ""
+"Маги действительно неплохо справляются с нежитью, так что ради такого "
+"правого дела они имеют право на существование!"
+
+msgid "Time to end with evil! Here and now!"
+msgstr "Пора покончить со злом! Здесь и сейчас!"
+
+msgid "For Etinburg!"
+msgstr "За Этинбург!"
+
+msgid ""
+"It seems, Torres led my Lord! Well, it serves him right! But I will correct "
+"his mistake!"
+msgstr ""
+"Кажется, Торрес подвел хозяина! Что-ж, поделом ему! Но я исправлю его ошибку!"
+
+msgid "I will avenge for my fallen friends! Get ready, bony!"
+msgstr "Я отомщу за своих погибших друзей! Готовься, костлявый!"
+
+msgid "Go to hell! You must be at that place forever!"
+msgstr "Отправляйся в ад! Тебе там самое место!"
+
+msgid "It sounds too self-confidently to be true!"
+msgstr "Это звучит слишком самоуверенно, чтобы быть правдой!"
+
+msgid "Destroy all undead in cavern"
+msgstr "Покончить с нежитью в пещере"
+
+msgid "Ha-ha! Mortals, you are stronger than I thought!"
+msgstr "Ха-ха! Смертные, вы оказались сильнее, чем я думал!"
+
+msgid "Get him! He must be destroyed!"
+msgstr "Скорее за ним! Он должен быть уничтожен!"
+
+msgid "Virgil, wait!"
+msgstr "Виргил, стой!"
+
+msgid "Fuck! Stop to blow up passages!"
+msgstr "Твою мать! Ну сколько можно взрывать проходы!"
+
+msgid "Come on, catch me, Virgil! It will be fight face to face!"
+msgstr "Давай, догони меня, Виргил! Так и быть! Сразимся с тобой один на один!"
+
+msgid "Virgil, it's a trap! No!"
+msgstr "Виргил, это ловушка! Нет!"
+
+msgid ""
+"This may be the only chance to end with Dalvich! I do not want to miss it!"
+msgstr ""
+"Это, возможно, единственный шанс покончить с Дальвичем! Я не хочу его "
+"упустить!"
+
+msgid "Kill Dalvich"
+msgstr "Убить Далвича"
+
+msgid "It seems, there is no way!"
+msgstr "Кажется, здесь не пройти!"
+
+msgid "I'm here! Catch me if you can!"
+msgstr "Я здесь! Поймай меня, если сможешь!"
+
+msgid "Wait, you coward! If you want to fight, why did you run away?"
+msgstr "Стой, трус! Если хочешь сразиться, зачем убегаешь?"
+
+msgid "Oh, almost caught!"
+msgstr "Ах, почти поймал!"
+
+msgid "Hold it!"
+msgstr "Стоять!"
+
+msgid ""
+"Sometimes you can found bottles of health. They can completely healed your "
+"hero, if he is near death. But you can not take more than one thing!"
+msgstr ""
+"Иногда на карте можно будет найти бутылочки здоровья. Они могут полностью "
+"вылечить персонажа, если он находится при смерти. Но нести с собой можно не "
+"более одной штуки!"
+
+msgid "See you in hell, Virgil!"
+msgstr "До встречи в аду, Виргил!"
+
+msgid "Noooooo!"
+msgstr "Неееееет!"
+
+# 6 scenario ===========================================================
+msgid "(#6) Hell"
+msgstr "(#6) В аду"
+
+msgid ""
+"Dalvich lured Virgil into a trap and now Virgil flew in some other dimension."
+msgstr ""
+"Далвич заманил Виргила в ловушку, и, судя по всему, сейчас Виргил летел в "
+"какое-то другое измерение."
+
+msgid ""
+"When he awoked, Virgil stand up and looked around. Lava was everywhere... Is "
+"it really a hell?"
+msgstr ""
+"Очнувшись, Виргил вскочил и огляделся. Вокруг кишела лава. Неужели это "
+"действительно был ад?"
+
+msgid "Now you're in hell! And your soul will be here forever!"
+msgstr "Теперь ты в аду! И твоя душа будет здесь навечно!"
+
+msgid "Already in hell? But I thought it would be at least a little hurt."
+msgstr "Как? Уже в аду? А я то думал, что будет хотя бы немного больно."
+
+msgid ""
+"The pain you will feel later! But that pain you never dreamed of nightmare!"
+msgstr ""
+"Боль ты испытаешь позже! Но такую, что тебе и в кошмарном сне не снилась!"
+
+msgid "Explore the area"
+msgstr "Обследовать местность"
+
+msgid ""
+"Inscription on the plate: 'The Road of Innocence' - be able to pass only one "
+"who got here ahead of time!"
+msgstr ""
+"Надпись на табличке: 'Дорога Невинности' - Пройдет только тот, кто раньше "
+"смерти попал в место сие!"
+
+msgid "Pass the 'Road of Innocence'"
+msgstr "Пройти по 'Дороге Невинности'"
+
+msgid "Jeffrey-Blade"
+msgstr "Джеффри-Клинок"
+
+msgid "Talk with prisoners"
+msgstr "Поговорить с пленниками"
+
+msgid "Kill undead fighters"
+msgstr "Уничтожить нежить"
+
+msgid "(raises his head and looks at Virgil)"
+msgstr "(поднимает голову и смотрит на Виргила)"
+
+msgid "Dalvik? It's you!"
+msgstr "Далвик? Это ты!"
+
+msgid ""
+"... what a strange place ... Do not touch them ... These treasures are "
+"damned ... An ancient evil has awakened ... Beginning of the end ..."
+msgstr ""
+"...какое странное место... Не трогай их... Эти сокровища прокляты... Древнее "
+"зло пробудилось... Начало конца..."
+
+msgid ""
+"Dalvik! Do you hear me? Tell me, please! You have become an undead Lich. Now "
+"he calls himself Dalvich and is going to make the undead from all of living "
+"beings!"
+msgstr ""
+"Далвик! Ты слышишь меня? Ответь, прошу! На наших глазах ты стал нежитью-"
+"личем. Теперь он зовет себя Далвич и собирается сделать нежить из всех живых "
+"существ!"
+
+msgid ""
+"Undead will rule the world ... And the living will envy dead ... Beginning "
+"of the end ..."
+msgstr ""
+"Нежить будет править миром... И живые будут завидовать мертвым... Начало "
+"конца..."
+
+msgid "Please, I really need help! How all this can be stopped?"
+msgstr "Прошу, мне очень нужна помощь! Как все это можно остановить?"
+
+msgid ""
+"Legend about Dragon ... Forgotten in centuries ... But the only way to a "
+"better end ... The end of that beginning ..."
+msgstr ""
+"Легенда о драконе... Забыта в веках... Но единственный путь к светлому "
+"концу... Концу этого начала..."
+
+msgid "Beginning of the end ... beginning of the end ..."
+msgstr "Начало конца... начало конца..."
+
+msgid "Dalvik! Virgil! Jeffrey! How I've missed you!"
+msgstr "Далвик! Виргил! Джеффри! Как мне вас не хватает!"
+
+msgid ""
+"Torres! And you're here! Sorry, we were unable to come up with a help in "
+"time!"
+msgstr "Торрес! И ты тут! Прости, мы не успели прийти с подмогой вовремя!"
+
+msgid ""
+"The city is in danger! Rather, talk to head of the city guards about it! "
+"Otherwise, the end!"
+msgstr ""
+"Город в опасности! Скорее сообщите начальнику стражи об этом! Иначе конец!"
+
+msgid "I got to the city! I said! We almost caught Dalvich!"
+msgstr "Я добрался до города! Я сообщил! Мы почти поймали Далвича!"
+
+msgid ""
+"This danger is not only to Etinburg, but also for all over the world! Must "
+"be reported to the city, there is only one way to eliminate this threat!"
+msgstr ""
+"Эта опасность не только для Этинбурга, но и для всего мира! Нужно сообщить в "
+"город, что есть только один способ устранить эту угрозу!"
+
+msgid "What? What way? This is, as already mentioned Dalvik?"
+msgstr "Какой? Какой способ? Это то, о чем уже говорил Далвик?"
+
+msgid "Legend about Dragon. About the end of that beginning!"
+msgstr "Легенда о Драконе. О конце этого начала!"
+
+msgid "Must be reported to the city! About danger!"
+msgstr "Нужно сообщить в город! Об опасности!"
+
+msgid "(with surprise looks at the creature behind lattice)"
+msgstr "(с удивлением смотрит на существо за решеткой)"
+
+msgid "You must stop this nightmare!"
+msgstr "Ты должен попытаться остановить этот кошмар!"
+
+msgid "You're speaking ... Yeti? Now nothing more will be surprised me!"
+msgstr "Ты говорящий...йети?! Все, теперь меня ничем больше не удивить!"
+
+msgid ""
+"Look at the prisoners! They're all damned! Because treasures is damned - "
+"they must be destroyed!"
+msgstr ""
+"Посмотри на пленников! Они все прокляты! Все из-за сокровищ - их нужно "
+"уничтожить!"
+
+msgid ""
+"Destroy? But how if the one touch turns any living creature in the undead?"
+msgstr ""
+"Уничтожить? Но как, если одно только прикосновение превращает любое живое "
+"существо в нежить?!"
+
+msgid "Legend about dragon! This is the only hope to put an end all of this!"
+msgstr ""
+"Легенда о драконе! Это единственная надежда, чтобы положить конец всему "
+"этому злу!"
+
+msgid "Learn the legend."
+msgstr "Узнать легенду."
+
+msgid "Skip the legend."
+msgstr "Пропустить рассказ легенды."
+
+msgid ""
+"Once upon a time there were treasures, the appearance of which remains a "
+"mystery. There were years, decades, centuries - but the treasure no one "
+"could find. It was only a belief that it can find someone who knows where it "
+"is."
+msgstr ""
+"Давным-давно существовали сокровища, появление которых остается загадкой. "
+"Шли годы, десятки лет, столетия - но сокровища никто не мог найти. Было лишь "
+"поверье, что найти его сможет тот, кто знает где оно."
+
+msgid ""
+"But the treasures were damned - if to touch them, they will do it "
+"immediately turned into a Lich - a magician with a light that nobody of any "
+"power in this world was to stop!"
+msgstr ""
+"Но сокровища оказались проклятыми - если до них прикоснутся, то сделавший "
+"это немедленно превращался в лича - волшебника с иного света, которого ничто "
+"ни в силах на белом свете было остановить."
+
+msgid ""
+"Nobody but dragon! But to become a dragon, had to walk the Labyrinth of "
+"Terror in the Temple of the Gods and find a fountain of blood."
+msgstr ""
+"Никто кроме дракона! Но чтобы стать драконом, нужно было пройти Лабиринт "
+"Ужаса в Храме Богов и найти там Фонтан Крови."
+
+msgid ""
+"According to legend, in the fountain flowing pure blood of the dragon. And "
+"drunk the blood turn into a winged lizard! Not immediately, but after a few "
+"cycles, which legend says nothing."
+msgstr ""
+"По легенде, в том фонтане течет чистейшая кровь дракона. И выпивший эту "
+"кровь превратится в крылатого ящера! Не сразу, но через несколько циклов, о "
+"которых легенда умалчивает."
+
+msgid ""
+"In the end, there was a final battle between good and evil! Only this winged "
+"reptile was able to destroy the evil lich and return good and calm in our "
+"world!"
+msgstr ""
+"В конце-концов произошла финальная битва добра со злом! И лишь этот крылатый "
+"ящер смог уничтожить злобного лича и вернуть добро и спокойствие в наш мир!"
+
+msgid ""
+"Impressive legend. Thanks for the story! And now I've got to find a way how "
+"to get out of here!"
+msgstr ""
+"Впечатляющая легенда. Спасибо за рассказ! А теперь мне пора искать способ, "
+"как выбраться отсюда!"
+
+msgid "And now I've got to find a way how to get out of here!"
+msgstr "А теперь мне пора искать способ, как выбраться отсюда!"
+
+msgid "Hurry up! No time to waste!"
+msgstr "Поспеши! Нельзя терять время!"
+
+msgid "Virgil, I'm glad to see you!"
+msgstr "Виргил, рад тебя видеть!"
+
+msgid "(horror looks at living skeleton)"
+msgstr "(c ужасом смотрит на живой скелет)"
+
+msgid "It's me, Jeffrey!"
+msgstr "Это же я, Джеффри!"
+
+msgid "But you look at who you looked like!"
+msgstr "Да ты посмотри на кого ты стал похож!"
+
+msgid "Excuse me for trying to somehow help rather Torres unlike you ..."
+msgstr ""
+"Уж извини, что пытался скорее хоть как-то помочь Торресу в отличие от тебя..."
+
+msgid "All right, I'm ..."
+msgstr "Все в порядке, я..."
+
+msgid ""
+"Out of order! I am a living skeleton! Torres and Dalvik dead! And you walk "
+"on hell unscathed at home!"
+msgstr ""
+"Не в порядке! Я живой скелет! Торрес и Далвик мертвы! А ты невредимый "
+"разгуливаешь по аду как у себя дома!"
+
+msgid ""
+"You're right. But I found a way to stop it! I would just get out of here!"
+msgstr ""
+"Ты прав. Но я узнал способ, как остановить все это! Мне бы только выбраться "
+"отсюда!"
+
+msgid ""
+"You also decided that the story - is the solution? Although, okay. Still do "
+"not have other ideas. I'll help you escape."
+msgstr ""
+"Ты тоже решил что легенда - это выход? Хотя, ладно. Все равно других идей "
+"нету. Я помогу тебе сбежать отсюда."
+
+msgid "How you have opened a lattice?"
+msgstr "Как ты открыл решетку?"
+
+msgid ""
+"Let's just say - I wormed his way into the confidence of his superiors. Tell "
+"the rest later."
+msgstr "Скажем так - я втерся в доверие начальства. Остальное расскажу потом."
+
+msgid "Find a way to escape from hell"
+msgstr "Найти способ сбежать из ада"
+
+msgid "Death of Jeffrey-Blade"
+msgstr "Смерть Джеффри-Клинка"
+
+msgid "Pain and suffering are waiting for you!"
+msgstr "Боль и страдания ожидают тебя!"
+
+msgid "The main (or key) hero was killed!"
+msgstr "Главный (или ключевой) герой погиб!"
+
+msgid "What does not kill - makes me stronger!"
+msgstr "Что не убивает - делает меня сильнее!"
+
+msgid "You want pain? You got it!"
+msgstr "Ты хотел боли? Ты ее получил!"
+
+msgid ""
+"In hell frequent volcanic eruptions. You're too late - lava filled all area."
+msgstr ""
+"В аду часто происходят извержения. Вы опоздали и лава заполнила всю локацию."
+
+# 7 scenario ===========================================================
+msgid "(#7) Trap"
+msgstr "(#7) Ловушка"
+
+msgid "Items"
+msgstr "Предметы"
+
+msgid "Found a bottle of health."
+msgstr "Найдена бутылочка здоровья."
+
+msgid "My lord! I brought him to you!"
+msgstr "Мой повелитель! Я привел его к Вам!"
+
+msgid "Oh, you traitor!"
+msgstr "Ах ты предатель!"
+
+msgid "Perfect, Jeffrey! You confirmed your loyalty!"
+msgstr "Прекрасно, Джеффри! Ты подтвердил свою преданность!"
+
+msgid "I am glad to serve you, my Lord!"
+msgstr "Рад служить вам, повелитель!"
+
+msgid "Virgil, there is the key from passage to portal! Take it!"
+msgstr "Виргил, это ключ от прохода к порталу! Возьми его!"
+
+msgid "Fool! In this place I'm immortal!"
+msgstr "Глупец! В этом месте я бессмертен!"
+
+msgid "Now you know what is real pain!"
+msgstr "Познай настоящую боль!"
+
+# 8 scenario ===========================================================
+msgid "(#8) Transformation"
+msgstr "(#8) Трансформация"
+
+msgid ""
+"Looks like, it's your turn to know what it's become an undead! What your "
+"last words, Virgil?"
+msgstr ""
+"Похоже, теперь твоя очередь узнать, какого это быть нежитью! Что скажешь "
+"напоследок, Виргил?"
+
+msgid "Jeffrey! Why have you done this with me?"
+msgstr "Джеффри! За что ты со мной так поступил?!"
+
+msgid "Okay, get started!"
+msgstr "Хорошо, приступим!"
+
+msgid ""
+"I swear, I'll find a way to destroy you! And you too! Destroy all undead!"
+msgstr ""
+"Клянусь, я найду способ уничтожить тебя! И тебя тоже! Всех вас уничтожу!"
+
+msgid "Farewell, Virgil! Forever!"
+msgstr "Прощай, Виргил! Навсегда!"
+
+msgid "How curiously enough ... and strange!"
+msgstr "Как любопытно... И странно!"
+
+msgid ""
+"Ha! It sssseemssss you could not do what you want, yessss? One more good "
+"newssss for thissss day!"
+msgstr ""
+"Ха! Кажжжжетсссся, у тебя не получилосссссь, да?! Хоть одна приятная "
+"новосссссть зззза день!"
+
+msgid "Lord, what do you want to do with ... this?"
+msgstr "Повелитель, как прикажете поступить с... этим?!"
+
+msgid ""
+"Send him to the camera! I need the time to need to understand what happened."
+msgstr ""
+"Отправь его в камеру! Мне нужно на время уединится и понять что здесь только "
+"что произошло."
+
+msgid "As you wish."
+msgstr "Как прикажете."
+
+# 9 scenario ===========================================================
+msgid "(#9) The end"
+msgstr "(#9) Конец"
+
+msgid "End of 1st part 'Way of Dragon' campaign. To be continue..."
+msgstr "Конец первой части кампании 'Путь Дракона'. Продолжение следует..."
+
+# Others ===========================================================
+msgid "Campfire"
+msgstr "Лагерный костер"
