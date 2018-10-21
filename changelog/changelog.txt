@@ -14,7 +14,7 @@
 Last beta-version always here: http://uporoom.ru/index.php/topic,179.0.html
 ---------------------------------------------------------------------------
 NOTICE! If you want to install company with version higher, than you 
-already have, recomended to delete catalog Way_of_Dragon (in you game
+already have, recomended to delete catalog way-of-dragon (in you game
 addons catalog).
 ===========================================================================
 
